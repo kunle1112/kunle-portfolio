@@ -192,10 +192,10 @@ AWS_STORAGE_BUCKET_NAME='kunleportfolio'
 RECIPIENT_ADDRESS=recipient_address
 
 CORS_ALLOWED_ORIGINS = [
-        'https://k-portfolio-production.up.railway.app',
+        'https://web-production-a8fb.up.railway.app',
         "http://localhost:8000"
         
     ]
 
-CSRF_TRUSTED_ORIGINS = ['https://k-portfolio-production.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://web-production-a8fb.up.railway.app']
 CORS_ALLOW_CREDENTIALS=True
